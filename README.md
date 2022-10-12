@@ -4,6 +4,15 @@
 ```
 npm install
 ```
+### Dexie installment
+```
+npm install dexie
+```
+
+### livequery installment
+```
+npm install @vueuse/rxjs
+```
 
 ### Compiles and hot-reloads for development
 ```
