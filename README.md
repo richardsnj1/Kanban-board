@@ -9,7 +9,7 @@ npm install
 npm install dexie
 ```
 
-### livequery installment
+### Livequery installment
 ```
 npm install @vueuse/rxjs
 ```
